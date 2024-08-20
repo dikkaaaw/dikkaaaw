@@ -10,8 +10,6 @@
 - Database: MongoDB, MySQL
 - Other: Git, Bootstrap, Material UI
 
-📫 Let's connect and collaborate! Reach me at [dhkwck00@gmail.com](mailto:dhkwck00@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/dikawicaksono10/).
-
 ## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikkaaaw&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
