@@ -5,10 +5,10 @@
 🌱 Currently, I'm expanding my skills in Fullstack development and exploring various frameworks to enhance my development capabilities.
 
 🚀 Here are some technologies I work with:
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React, Laravel, Wordpress
 - Backend: Node.js, Express
 - Database: MongoDB, MySQL
-- Other: Git, Bootstrap, Material UI
+- Other: Git, Bootstrap, Material UI, Tailwind
 
 ## 📈 My GitHub Stats
 
