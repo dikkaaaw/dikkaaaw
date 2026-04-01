@@ -1,17 +1,56 @@
-## About Me:
-I'm a Front End Web Developer passionate about creating interactive and user-friendly web applications.
-I'm currently learning Mobile Development using React Native to build seamless cross-platform experiences.
-I'm also expanding my skills in Fullstack development and exploring various frameworks to enhance my capabilities.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   $ whoami                                                   ║
+║   > dika wicaksono                                           ║
+║                                                              ║
+║   $ cat about.txt                                            ║
+║   > Front End Developer                                      ║
+║   > Building things for the web — and now mobile too.        ║
+║   > About to learn some fullstack things                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edin.com/in/dikawicaksono10/) 
+```bash
+$ ls ./skills
+```
 
+**Languages**
 
-## Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,js,ts&perline=14" />
 
+**Frontend**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,tailwind,bootstrap&perline=14" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=express,nodejs,laravel&perline=14" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode&perline=14" />
+
+---
+
+```bash
+$ git log --graph --oneline
+```
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikkaaaw&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+```bash
+$ cat connect.sh
+```
+
+<a href="https://www.linkedin.com/in/dikawicaksono10/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+---
+
+```
+[status]: still learning
+```
