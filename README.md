@@ -10,6 +10,8 @@
 ║   > About to learn some fullstack things                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
+---
 
 ```bash
 $ ls ./skills
